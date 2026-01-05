@@ -1,0 +1,29 @@
+button{
+    color: white;
+    background-color: blue;
+width: 7vw;
+height: 4vh ;
+border-radius: 10px;
+border: none;
+}
+h1{
+    font-size: xx-larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    background-color: white;
+    width: 25vw;
+    height: 15vh;
+margin: 0 auto;
+margin-top: 20vw;
+    text-align: center;
+    border-radius: 10px;
+}
+
+body{
+    background-color: rgb(241, 241, 241);
+}
+input{
+    width: 12vw;
+    height: 3vh;
+}
