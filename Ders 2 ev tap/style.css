@@ -1,0 +1,22 @@
+p{
+    border: 1px black solid;
+    background-color: aliceblue;
+    height: 4vh;
+   padding-top: 15px;
+   padding-left: 5px;
+}
+#hide{
+    background-color: red;
+    color: white;
+     border: none;
+     height: 4vh;
+    width: 5vw;
+    margin-right: 10px;
+}
+#show{
+    background-color: green;
+    color: white;
+    border: none;
+    height: 4vh;
+    width: 5vw;
+}
